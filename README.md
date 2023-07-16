@@ -8,15 +8,17 @@ Python
 FlaskAPI
 Beautifoul Soup, Requests
 HTML and CSS
+
 Infrastructure Required.
 VS Code (you can use any other IDE)
 GIT
 GITHUB
+
 How to run?
 This app is now available for offline run. In coming days, i'll deploy this app on AWS.
 
 Step 1: Clone the repository
-git clone https://github.com/Shubham3023/FlipkartReviewScraper.git
+git clone https://github.com/Kishordevaragudi/Project-web-scapping-.git
 Step 2- Download the code to local and use any IDE for running the code.
 Step 3 - Install the requirements
 pip install -r requirements.txt
